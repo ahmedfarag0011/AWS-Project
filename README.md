@@ -1,17 +1,21 @@
-# AWS-Project
+# AWS Project – Scalable Web Application Deployment
+
 ✅ Solution Overview
 This solution deploys a web application on Amazon EC2 instances, distributed across multiple Availability Zones using an Application Load Balancer (ALB) to provide scalability and high availability. The Auto Scaling Group (ASG) ensures elasticity by automatically adjusting the number of EC2 instances based on demand.
 
 🎯 Learning Objectives
+
+🏗️ Design a fault-tolerant, scalable AWS architecture.
+
+⚖️ Implement Elastic Load Balancing (ALB) and Auto Scaling for high availability.
+
+🔐 Utilize private/public subnets for secure, multi-tier architectures.
+
+📊 Monitor application performance using Amazon CloudWatch and SNS notifications.
 Design a fault-tolerant, scalable architecture on AWS.
 
-Use Elastic Load Balancing and Auto Scaling for high availability.
 
-Understand private and public subnet use cases in secure VPC designs.
-
-Monitor application performance with Amazon CloudWatch.
-
-🏗️ Architecture Diagram
+🗺️ Architecture Diagram
 ![Ahmed Farag](https://github.com/user-attachments/assets/578beaa8-5c71-4d9d-b80d-1b00ac88ad6e)
 
 
