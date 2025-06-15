@@ -44,9 +44,9 @@ AWS CLI installed & configured
 
 Web Browser for AWS Management Console
 
-Text editor (e.g., VSCode)
 
 🚀 Deployment Steps
+
 1️⃣ Create Networking
 Create VPC
 
